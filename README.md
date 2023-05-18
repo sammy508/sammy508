@@ -10,7 +10,8 @@
 I'm a passionate and creative web designer with a keen eye for design and attention to detail. With years of experience in the industry, I specialize in crafting beautiful and highly functional websites that engage audiences and reflect unique brand identities.
 
 ## Skills & Techs 💻
-![Flutter Logo](https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+
 
 
 
