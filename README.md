@@ -34,8 +34,8 @@ I'm a passionate and creative web designer with a keen eye for design and attent
 
 # Education & Bootcamp
 
-- 🎓 Completed High School from Kalika Manavgyan Higher Secondry School
-- 💻 Completed Web Design and Development Bootcamp from HUB.IT & Solution Nepal
+- 🎓 Completed High School from Kalika Multiple college
+- 💻 Basic Web Design and Development Bootcamp from (online)
 
 # What I'm up to 🔥
 
