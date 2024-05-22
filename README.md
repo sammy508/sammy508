@@ -49,4 +49,4 @@ I'm a passionate and creative web designer with a keen eye for design and attent
 
 ![Contact](https://img.shields.io/badge/Contact-Me-blueviolet?style=for-the-badge&logo=telegram) [![Contact](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail)](mailto:codesammy1000@gmail.com) [![Contact](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/samir.samirchapagain/)
 
-[![Contact](https://img.shields.io/badge/Contact-Me-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/samirchapagain/) [![Contact](https://img.shields.io/badge/Contact-Me-green?style=for-the-badge&logo=whatsapp)](https://wa.me/9817591073)
+[![Contact](https://img.shields.io/badge/Contact-Me-pink?style=for-the-badge&logo=instagram)]([https://www.instagram.com/samirchapagain/](https://www.instagram.com/cpgnsamir30/)) [![Contact](https://img.shields.io/badge/Contact-Me-green?style=for-the-badge&logo=whatsapp)](https://wa.me/9817591073)
