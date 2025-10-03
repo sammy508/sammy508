@@ -13,13 +13,10 @@ I'm a **Detail-oriented QA Engineer** passionate about building reliable softwar
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-**Languages:**  
-- Python  
-- Java  
 
 **Other Tools:**  
 - Git & GitHub  
-- Jira / Trello (Bug tracking & project management)  
+- Jira / Trello (Bug tracking)  
 - SQL (Basic DB testing)  
 
 ---
@@ -45,4 +42,5 @@ I'm a **Detail-oriented QA Engineer** passionate about building reliable softwar
 
 ---
 “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
+
 
