@@ -1,52 +1,48 @@
+# Hi there 👋, I'm Samir Chapagain
 
-# Hi there 👋, I'm Samir!
+I'm a **Detail-oriented QA Engineer** passionate about building reliable software and ensuring top-notch user experiences. I thrive in finding bugs, improving workflows, and making sure everything works as expected.  
 
+---
 
-
-
-## About me
-### 🎨 A Creative Web Designer with an Eye for Detail
-
-I'm a passionate and creative web designer with a keen eye for design and attention to detail. With years of experience in the industry, I specialize in crafting beautiful and highly functional websites that engage audiences and reflect unique brand identities.
-
-## Skills & Techs 💻
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-
-
+### 🛠️ Tech Stack & Skills
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-![UI/UX](https://img.shields.io/badge/-UI/UX-FF6B6B?style=flat-square) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB)
+**Languages:**  
+- Python  
+- Java  
 
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+**Other Tools:**  
+- Git & GitHub  
+- Jira / Trello (Bug tracking & project management)  
+- SQL (Basic DB testing)  
 
-## 👨‍💼 Work Experience
+---
 
-### Junior Web Designer at [King's IT & Tech] (2021 - present)
+## 🛠️ What I Do
+- Design and execute **manual and automated test cases**.  
+- Conduct **functional, regression adn API Testing**.  
+- Report bugs with clear reproduction steps and track them efficiently.  
+- Collaborate with developers to **deliver high-quality software**.  
+- Continuously learn new tools and frameworks to **level up QA skills**.  
 
-🌟 As a junior web designer at King's IT & Tech, I have had the opportunity to:
+---
 
-- 💻 Assist senior designers in the development of website layouts and user interfaces.
-- 🎨 Contribute to website redesign projects for various clients.
-- 🌐 Gain experience in responsive design and front-end development.
-
-👨‍🎓 Through my work at King's IT & Tech, I have learned valuable skills and techniques that have helped me grow as a web designer.
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sammy508&show_icons=true&theme=radical)
 
 
-# Education & Bootcamp
+---
 
-- 🎓 Completed High School from Kalika Multiple college
-- 💻 Basic Web Design and Development Bootcamp from (online)
+## 📫 Connect with Me
+- 📧 Email: [chapagainsamir9@gmail.com](mailto:chapagainsamir9@gmail.com)  
+- 🔗 LinkedIn: [Samir Chapagain](https://www.linkedin.com/in/samir-chapagain-a48619276/)  
 
-# What I'm up to 🔥
+---
 
-- 📚 Learning new web design and development skills through online courses and tutorials
-- 💻 Working on personal web design projects, including a portfolio website and a blog
-- 🌱 Exploring new technologies and tools, such as React and Tailwind CSS
-- 🎨 Experimenting with different design styles and techniques
-- 🚀 Building a network of fellow web designers and developers for collaboration and support
-
-## Get in touch 
-
-![Contact](https://img.shields.io/badge/Contact-Me-blueviolet?style=for-the-badge&logo=telegram) [![Contact](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail)](mailto:codesammy1000@gmail.com) [![Contact](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/samir.samirchapagain/)
-
-[![Contact](https://img.shields.io/badge/Contact-Me-pink?style=for-the-badge&logo=instagram)]([https://www.instagram.com/samirchapagain/](https://www.instagram.com/cpgnsamir30/)) [![Contact](https://img.shields.io/badge/Contact-Me-green?style=for-the-badge&logo=whatsapp)](https://wa.me/9817591073)
+> “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
