@@ -29,6 +29,9 @@ I'm a **Detail-oriented QA Engineer** passionate about building reliable softwar
 - Continuously learn new tools and frameworks to **level up QA skills**.  
 
 ---
+### 🌟 Top Repositories
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy508&layout=compact)](https://github.com/sammy508?tab=repositories)
+
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sammy508&show_icons=true&theme=radical)
@@ -42,5 +45,6 @@ I'm a **Detail-oriented QA Engineer** passionate about building reliable softwar
 
 ---
 “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
+
 
 
