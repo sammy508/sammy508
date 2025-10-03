@@ -15,7 +15,6 @@ I'm a **Detail-oriented QA Engineer** passionate about building reliable softwar
 
 
 **Other Tools:**  
-- Git & GitHub  
 - Jira / Trello (Bug tracking)  
 - SQL (Basic DB testing)  
 
@@ -45,6 +44,7 @@ I'm a **Detail-oriented QA Engineer** passionate about building reliable softwar
 
 ---
 “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
+
 
 
 
