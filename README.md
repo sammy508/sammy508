@@ -44,5 +44,5 @@ I'm a **Detail-oriented QA Engineer** passionate about building reliable softwar
 - 🔗 LinkedIn: [Samir Chapagain](https://www.linkedin.com/in/samir-chapagain-a48619276/)  
 
 ---
+“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
 
-> “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
